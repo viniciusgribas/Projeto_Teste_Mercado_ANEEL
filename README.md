@@ -1,0 +1,2 @@
+# Projeto_Teste_Mercado_ANEEL
+Análise exploratória sobre a tarifa aplicada para unidades consumidoras de energia elétrica no brasil. Com os dados de fornecimento e consumo das distribuidoras por nível de tensão, disponibilizados via CSV e XLSX pela ANEEL. Foi possível realizar uma visualização em gráficos de barras sobre as maiores tarifas em energia elétrica para uma classe específica. O consumidor B1 (Residencial). É um resultado simples, fruto de aplicações das bibliotecas Pandas, Numpy e Sklearn para prever possíveis tarifas. 
